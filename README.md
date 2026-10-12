@@ -39,6 +39,7 @@ Currently a freelance partner at **ClickSolutions** and a Computer Science stude
 | Project | What it does | Stack | Link |
 | :-- | :-- | :-- | :-- |
 | **Wazaef Misr** | Job marketplace for the Egyptian market with 1,200+ listings, separate dashboards for job seekers, employers and admins, resume parsing, recommendations and a built-in fraud reporting system. | Laravel, MySQL | [mqala.xyz](https://mqala.xyz) |
+| **Spark Platform** | Educational platform for a client in Saudi Arabia, built from the client's initial idea: interface design and most of the internal functionality. | React, Laravel, MySQL | [spark-platform.free.je](https://spark-platform.free.je/) |
 | **UQTCollect** | Trainee management and fee collection system for a training institute in Saudi Arabia: enrollment, invoicing, installments and real-time finance dashboards. Serves 6,570+ trainees and about SAR 8.7M in collected fees, and was load-tested for 600+ concurrent staff users. | Laravel, MySQL, JavaScript | [Repository](https://github.com/abdullahreda56643-sudo/UQTCollect) |
 | **ShiftCF** | Workforce platform for shift registration and leave requests with conflict detection, approval workflows and a real-time color-coded shift calendar. | PHP, Laravel, MySQL | [Repository](https://github.com/abdullahreda56643-sudo/shift-management-system) |
 | **ClickSolutions CRM** | Agency CRM covering lead management, sales pipeline, project and task tracking, client onboarding workflows and KPI dashboards. | Laravel, MySQL, React | <!-- add repository link here when uploaded --> In progress |
@@ -72,7 +73,16 @@ I also use AI tools (Claude, ChatGPT, Gemini, Cursor) to speed up development, a
 - **Financial and operational systems:** invoicing, installments, reconciliation views and dashboards that remove manual spreadsheet work.
 - **Database performance:** query optimization and indexing for systems with hundreds of concurrent users.
 - **Role-based platforms:** authentication, permissions and admin tooling for multi-role products.
+- **Working with clients:** understanding what they need, asking the right questions early, and turning their ideas into working products.
 - **Deployment:** Linux VPS setups with Nginx for production applications.
+
+---
+
+## Client Feedback
+
+> "The website design is wonderful and better than I expected, and it is smooth, easy and fast to use. I gave him my idea and he designed it in a way that amazed me."
+>
+> Client of the Spark educational platform, Saudi Arabia (translated from Arabic)
 
 ---
 
