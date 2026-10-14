@@ -1,102 +1,84 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════════╗
-  ║  Profile README — Abdullah Reda                                      ║
-  ║  Repository name MUST be exactly: abdullahreda56643-sudo             ║
-  ║  Design: Ultra-Advanced · Unique · Bilingual (AR/EN) · All-in-One    ║
-  ║  Author: Abdullah Reda · Full-Stack Developer                        ║
-  ╚══════════════════════════════════════════════════════════════════════╝
--->
+Abdullah Reda — Full-Stack Developer
+terminal
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     ①  HEADER WAVE  —  Animated Gradient Banner
-     ═══════════════════════════════════════════════════════════════════ -->
-<div align="center">
+typing terminal
+LocationRelocationWork mode
 
-<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,2,2,5,30&text=Abdullah%20Reda&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20React%20%C2%B7%20Laravel%20%C2%B7%20MySQL&descAlignY=58&descSize=20&animation=fadeIn" />
+LinkedInEmailLive project
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     ②  TYPING ANIMATION  —  Bilingual (EN + AR)
-     ═══════════════════════════════════════════════════════════════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&width=800&height=80&lines=I+build+web+systems+that+replace+manual+work;Fee+collection+%7C+Shift+management+%7C+Job+platforms;%D8%A3%D8%A8%D9%86%D9%8A+%D8%A3%D9%86%D8%B8%D9%85%D8%A9+%D9%88%D9%8A%D8%A8+%D8%AA%D8%B3%D8%AA%D8%A8%D8%AF%D9%84+%D8%A7%D9%84%D8%B9%D9%85%D9%84+%D8%A7%D9%84%D9%8A%D8%AF%D9%88%D9%8A" alt="Typing SVG" />
-</a>
+I build web systems that replace manual work: fee collection, shift management and job platforms.
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     ③  STATUS BADGES
-     ═══════════════════════════════════════════════════════════════════ -->
-<p>
-  <img alt="Location" src="https://img.shields.io/badge/📍_Cairo,_Egypt-0F172A?style=for-the-badge&logoColor=38BDF8" />
-  <img alt="Relocation" src="https://img.shields.io/badge/🎯_Open_to_Saudi_Arabia-0F172A?style=for-the-badge&logoColor=38BDF8" />
-  <img alt="Work mode" src="https://img.shields.io/badge/💻_Remote_/_On--site-0F172A?style=for-the-badge&logoColor=38BDF8" />
-  <img alt="Status" src="https://img.shields.io/badge/🟢_Available_for_work-0F172A?style=for-the-badge&logoColor=38BDF8" />
-</p>
+$ whoami
+Full-stack developer working mainly with React and Laravel. I have been building production web systems as a freelancer since 2021 for clients in Egypt and Saudi Arabia — covering requirements, architecture, development, testing and deployment.
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     ④  SOCIAL LINKS
-     ═══════════════════════════════════════════════════════════════════ -->
-<p>
-  <a href="https://www.linkedin.com/in/abdullah-reda-8b00973b1/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" />
-  </a>
-  <a href="mailto:abdullahreda56643@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" />
-  </a>
-  <a href="https://mqala.xyz">
-    <img alt="Live" src="https://img.shields.io/badge/mqala.xyz-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=0F172A&labelColor=0F172A" />
-  </a>
-  <a href="https://github.com/abdullahreda56643-sudo">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
-  </a>
-</p>
+Currently a freelance partner at ClickSolutions and a Computer Science student at Thebes Academy (expected graduation 2028).
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     ⑤  VISITOR COUNTER + FOLLOWERS
-     ═══════════════════════════════════════════════════════════════════ -->
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=abdullahreda56643-sudo&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
-<img alt="Followers" src="https://img.shields.io/github/followers/abdullahreda56643-sudo?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0F172A" />
+Open to junior and mid-level full-stack roles — remote or on-site.
 
-</div>
+LOCATION = "Cairo, Egypt"TIMEZONE = "UTC+2"TARGET   = "Saudi Arabia"ROLE     = "Full-Stack Developer"STACK    = "React · Laravel · MySQL"MODE     = "Remote / On-site"SHIPPING = "Since 2021"STATUS   = "Open to work"
+$ git log --oneline --career
+f4c1e2a (HEAD → main) feat: UQTCollect — 6,570+ trainees · SAR 8.7M in feesb3d09f1 feat: Wazaef Misr — job marketplace · 1,200+ listingsa92c77e feat: Spark Platform — educational platform, Saudi client7e1b4c0 feat: Hall Booking Platform — replaced manual booking3c8a5f2 feat: ShiftCF — shifts, leaves, conflict detection
+$ ls ~/projects --featured
+01 · UQTCollect — repository ↗
 
-<br />
+Trainee management and fee collection system for a training institute in Saudi Arabia: enrollment, invoicing, installments and real-time finance dashboards. Serves 6,570+ trainees and about SAR 8.7M in collected fees, and was load-tested for 600+ concurrent staff users.
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     ⑥  ARABIC WELCOME CARD
-     ═══════════════════════════════════════════════════════════════════ -->
-<div align="center">
+LaravelMySQLJavaScripttraineesfeesload tested
 
-### 🇪🇬 أهلاً بك في ملفي الشخصي
+02 · Wazaef Misr — mqala.xyz ↗
 
-> **مطوّر ويب متكامل** أعمل بـ **React** و **Laravel**، وأبني أنظمة إنتاجية تحل مشاكل حقيقية منذ 2021، لعملاء في **مصر والسعودية**.
+Job marketplace for the Egyptian market with 1,200+ listings, separate dashboards for job seekers, employers and admins, resume parsing, recommendations and a built-in fraud reporting system.
 
-</div>
+ReactLaravelMySQLlistingslive
 
----
+03 · Spark Platform — spark-platform.free.je ↗
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     ⑦  ABOUT ME  —  Code Block + Stats Card
-     ═══════════════════════════════════════════════════════════════════ -->
-<h2 align="center">👨‍💻 About Me</h2>
+Educational platform for a client in Saudi Arabia, built from the client's initial idea: interface design and most of the internal functionality, delivered end-to-end.
 
-<table align="center">
-<tr>
-<td width="60%">
+ReactLaravelMySQLclient
 
-```typescript
-const abdullah = {
-  role: "Full-Stack Developer",
-  since: 2021,
-  location: "Cairo, Egypt 🇪🇬",
-  languages: ["Arabic (native)", "English (intermediate)"],
-  focus: [
-    "Financial & operational systems",
-    "Database performance",
-    "Role-based platforms",
-    "Linux VPS deployment"
-  ],
-  currently: {
-    role: "Freelance Partner @ ClickSolutions",
-    study: "B.Sc. Computer Science @ Thebes Academy (2028)"
-  },
-  aiTools: ["Claude", "ChatGPT", "Gemini", "Cursor"],
-  motto: "Build · Test · Ship · Iterate"
-};
+$ ls ~/projects --all — more projects
+$ cat stack.json
+Core
+
+Core stack
+Tools
+
+Tools
+Working knowledge
+
+Working knowledge
+I also use AI tools (Claude, ChatGPT, Gemini, Cursor) to speed up development, and I review everything they produce before it ships.
+
+$ git log --stat
+GitHub statsStreak statsTop languages
+Contribution activity
+Trophies
+$ grep -i "focus" goals.txt
+Area	What I do
+Financial and operational systems	Invoicing, installments, reconciliation views and dashboards that remove manual spreadsheet work
+Database performance	Query optimization and indexing for systems with hundreds of concurrent users
+Role-based platforms	Authentication, permissions and admin tooling for multi-role products
+Working with clients	Understanding what they need, asking the right questions early, and turning their ideas into working products
+Deployment	Linux VPS setups with Nginx for production applications
+$ cat testimonials.txt
+Khadija Al-Shehri — client, Spark Platform	Najla Al-Thumali — client, Hall Booking Platform
+"The website design is wonderful and better than I expected, and it is smooth, easy and fast to use. I gave him my idea and he designed it in a way that amazed me."
+
+"The platform is wonderful and saved me a great deal of effort. The management and users praised it highly. Working together was beyond great: fast delivery, simple revisions and quick responses."
+
+Both testimonials translated from Arabic.
+
+$ history --education
+B.Sc. Computer Science	Thebes Academy, Egypt (expected 2028)
+Front-End Development Diploma	Courses Zone, 2020
+Back-End Development Diploma	Courses Zone, 2023
+Languages:ArabicEnglish
+
+$ exit 0
+Open to junior and mid-level full-stack roles — remote or on-site.
+
+EmailLinkedIn
+
+Tip: Ctrl + Shift + H — replace in files (and in your business).
+
