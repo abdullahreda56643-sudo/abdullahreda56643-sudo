@@ -1,117 +1,102 @@
 <!--
-  Profile README for github.com/abdullahreda56643-sudo
-  Paste into the README.md of the repo named exactly like your username.
-  Hidden notes like this one do not render on GitHub.
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║  Profile README — Abdullah Reda                                      ║
+  ║  Repository name MUST be exactly: abdullahreda56643-sudo             ║
+  ║  Design: Ultra-Advanced · Unique · Bilingual (AR/EN) · All-in-One    ║
+  ║  Author: Abdullah Reda · Full-Stack Developer                        ║
+  ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
+<!-- ═══════════════════════════════════════════════════════════════════
+     ①  HEADER WAVE  —  Animated Gradient Banner
+     ═══════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img width="100%" alt="Abdullah Reda - Full-Stack Developer" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0F172A&text=Abdullah%20Reda&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20React%20%C2%B7%20Laravel%20%C2%B7%20MySQL&descAlignY=60&descSize=18&descColor=38BDF8" />
+<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,2,2,5,30&text=Abdullah%20Reda&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20React%20%C2%B7%20Laravel%20%C2%B7%20MySQL&descAlignY=58&descSize=20&animation=fadeIn" />
 
-**I build web systems that replace manual work: fee collection, shift management and job platforms.**
+<!-- ═══════════════════════════════════════════════════════════════════
+     ②  TYPING ANIMATION  —  Bilingual (EN + AR)
+     ═══════════════════════════════════════════════════════════════════ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&width=800&height=80&lines=I+build+web+systems+that+replace+manual+work;Fee+collection+%7C+Shift+management+%7C+Job+platforms;%D8%A3%D8%A8%D9%86%D9%8A+%D8%A3%D9%86%D8%B8%D9%85%D8%A9+%D9%88%D9%8A%D8%A8+%D8%AA%D8%B3%D8%AA%D8%A8%D8%AF%D9%84+%D8%A7%D9%84%D8%B9%D9%85%D9%84+%D8%A7%D9%84%D9%8A%D8%AF%D9%88%D9%8A" alt="Typing SVG" />
+</a>
 
+<!-- ═══════════════════════════════════════════════════════════════════
+     ③  STATUS BADGES
+     ═══════════════════════════════════════════════════════════════════ -->
 <p>
-  <img alt="Location" src="https://img.shields.io/badge/Cairo%2C_Egypt-0F172A?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" />
-  <img alt="Relocation" src="https://img.shields.io/badge/Open_to_relocation-Saudi_Arabia-0F172A?style=for-the-badge&logo=target&logoColor=38BDF8" />
-  <img alt="Work mode" src="https://img.shields.io/badge/Remote_or_On--site-0F172A?style=for-the-badge&logo=gitbook&logoColor=38BDF8" />
+  <img alt="Location" src="https://img.shields.io/badge/📍_Cairo,_Egypt-0F172A?style=for-the-badge&logoColor=38BDF8" />
+  <img alt="Relocation" src="https://img.shields.io/badge/🎯_Open_to_Saudi_Arabia-0F172A?style=for-the-badge&logoColor=38BDF8" />
+  <img alt="Work mode" src="https://img.shields.io/badge/💻_Remote_/_On--site-0F172A?style=for-the-badge&logoColor=38BDF8" />
+  <img alt="Status" src="https://img.shields.io/badge/🟢_Available_for_work-0F172A?style=for-the-badge&logoColor=38BDF8" />
 </p>
 
+<!-- ═══════════════════════════════════════════════════════════════════
+     ④  SOCIAL LINKS
+     ═══════════════════════════════════════════════════════════════════ -->
 <p>
-  <a href="https://www.linkedin.com/in/abdullah-reda-8b00973b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abdullahreda56643@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://mqala.xyz"><img alt="Live project" src="https://img.shields.io/badge/Live_project-mqala.xyz-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=0F172A" /></a>
+  <a href="https://www.linkedin.com/in/abdullah-reda-8b00973b1/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" />
+  </a>
+  <a href="mailto:abdullahreda56643@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" />
+  </a>
+  <a href="https://mqala.xyz">
+    <img alt="Live" src="https://img.shields.io/badge/mqala.xyz-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=0F172A&labelColor=0F172A" />
+  </a>
+  <a href="https://github.com/abdullahreda56643-sudo">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" />
+  </a>
 </p>
 
+<!-- ═══════════════════════════════════════════════════════════════════
+     ⑤  VISITOR COUNTER + FOLLOWERS
+     ═══════════════════════════════════════════════════════════════════ -->
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=abdullahreda56643-sudo&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+<img alt="Followers" src="https://img.shields.io/github/followers/abdullahreda56643-sudo?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0F172A" />
+
 </div>
 
----
+<br />
 
-## About
-
-Full-stack developer working mainly with **React** and **Laravel**. I have been building production web systems as a freelancer since 2021 for clients in **Egypt and Saudi Arabia**, covering requirements, architecture, development, testing and deployment.
-
-Currently a freelance partner at **ClickSolutions** and a Computer Science student at Thebes Academy (expected graduation 2028).
-
----
-
-## Featured Projects
-
-| Project | What it does | Stack | Link |
-| :-- | :-- | :-- | :-- |
-| **Wazaef Misr** | Job marketplace for the Egyptian market with 1,200+ listings, separate dashboards for job seekers, employers and admins, resume parsing, recommendations and a built-in fraud reporting system. | Laravel, MySQL | [mqala.xyz](https://mqala.xyz) |
-| **Spark Platform** | Educational platform for a client in Saudi Arabia, built from the client's initial idea: interface design and most of the internal functionality. | React, Laravel, MySQL | [spark-platform.free.je](https://spark-platform.free.je/) |
-| **Hall Booking Platform** | Digital hall booking platform built for a client to replace manual booking management, delivered quickly and refined through short feedback cycles. | React, Laravel, MySQL | [hall-platform.site.je](https://hall-platform.site.je/) |
-| **UQTCollect** | Trainee management and fee collection system for a training institute in Saudi Arabia: enrollment, invoicing, installments and real-time finance dashboards. Serves 6,570+ trainees and about SAR 8.7M in collected fees, and was load-tested for 600+ concurrent staff users. | Laravel, MySQL, JavaScript | [Repository](https://github.com/abdullahreda56643-sudo/UQTCollect) |
-| **ShiftCF** | Workforce platform for shift registration and leave requests with conflict detection, approval workflows and a real-time color-coded shift calendar. | PHP, Laravel, MySQL | [Repository](https://github.com/abdullahreda56643-sudo/shift-management-system) |
-| **ClickSolutions CRM** | Agency CRM covering lead management, sales pipeline, project and task tracking, client onboarding workflows and KPI dashboards. | Laravel, MySQL, React | <!-- add repository link here when uploaded --> In progress |
-
----
-
-## Tech Stack
-
+<!-- ═══════════════════════════════════════════════════════════════════
+     ⑥  ARABIC WELCOME CARD
+     ═══════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-**Core**
+### 🇪🇬 أهلاً بك في ملفي الشخصي
 
-<img alt="Core stack" src="https://skillicons.dev/icons?i=react,js,php,laravel,mysql,html,css,tailwind,bootstrap&perline=9" />
-
-**Tools**
-
-<img alt="Tools" src="https://skillicons.dev/icons?i=git,github,linux,nginx,redux,materialui&perline=6" />
-
-**Working knowledge**
-
-<img alt="Working knowledge" src="https://skillicons.dev/icons?i=nextjs,docker,aws&perline=3" />
+> **مطوّر ويب متكامل** أعمل بـ **React** و **Laravel**، وأبني أنظمة إنتاجية تحل مشاكل حقيقية منذ 2021، لعملاء في **مصر والسعودية**.
 
 </div>
 
-I also use AI tools (Claude, ChatGPT, Gemini, Cursor) to speed up development, and I review everything they produce before it ships.
-
 ---
 
-## What I Focus On
+<!-- ═══════════════════════════════════════════════════════════════════
+     ⑦  ABOUT ME  —  Code Block + Stats Card
+     ═══════════════════════════════════════════════════════════════════ -->
+<h2 align="center">👨‍💻 About Me</h2>
 
-- **Financial and operational systems:** invoicing, installments, reconciliation views and dashboards that remove manual spreadsheet work.
-- **Database performance:** query optimization and indexing for systems with hundreds of concurrent users.
-- **Role-based platforms:** authentication, permissions and admin tooling for multi-role products.
-- **Working with clients:** understanding what they need, asking the right questions early, and turning their ideas into working products.
-- **Deployment:** Linux VPS setups with Nginx for production applications.
+<table align="center">
+<tr>
+<td width="60%">
 
----
-
-## Client Feedback
-
-> "The website design is wonderful and better than I expected, and it is smooth, easy and fast to use. I gave him my idea and he designed it in a way that amazed me."
->
-> Khadija Al-Shehri, client of the Spark educational platform, Saudi Arabia (translated from Arabic)
-
-> "The platform is wonderful and saved me a great deal of effort. The management and users praised it highly. Working together was beyond great: fast delivery, simple revisions and quick responses."
->
-> Najla Al-Thumali, client of the hall booking platform (translated from Arabic)
-
----
-
-## Education and Certificates
-
-| | |
-| :-- | :-- |
-| **B.Sc. Computer Science** | Thebes Academy, Egypt (expected 2028) |
-| **Front-End Development Diploma** | Courses Zone, 2020 |
-| **Back-End Development Diploma** | Courses Zone, 2023 |
-
----
-
-## Languages
-
-Arabic (native) · English (intermediate)
-
----
-
-<div align="center">
-
-**Open to junior and mid-level full-stack roles, remote or on-site.**
-Reach me on [LinkedIn](https://www.linkedin.com/in/abdullah-reda-8b00973b1/) or at [abdullahreda56643@gmail.com](mailto:abdullahreda56643@gmail.com)
-
-<img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0F172A&section=footer" />
-
-</div>
+```typescript
+const abdullah = {
+  role: "Full-Stack Developer",
+  since: 2021,
+  location: "Cairo, Egypt 🇪🇬",
+  languages: ["Arabic (native)", "English (intermediate)"],
+  focus: [
+    "Financial & operational systems",
+    "Database performance",
+    "Role-based platforms",
+    "Linux VPS deployment"
+  ],
+  currently: {
+    role: "Freelance Partner @ ClickSolutions",
+    study: "B.Sc. Computer Science @ Thebes Academy (2028)"
+  },
+  aiTools: ["Claude", "ChatGPT", "Gemini", "Cursor"],
+  motto: "Build · Test · Ship · Iterate"
+};
