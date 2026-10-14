@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="262" viewBox="0 0 480 262" role="img">
+<style>
+text{font-family:Inter,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace}
+@keyframes fadeUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes drift1{0%,100%{transform:translate(0,0)}50%{transform:translate(-50px,30px)}}
+@keyframes drift2{0%,100%{transform:translate(0,0)}50%{transform:translate(60px,-25px)}}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(1.8)}}
+@keyframes draw{from{stroke-dashoffset:900}to{stroke-dashoffset:0}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.up{animation:fadeUp .8s ease both}
+.fi{animation:fadeIn 1s ease both}
+.fl{animation:floaty 6s ease-in-out infinite}
+.dot{transform-box:fill-box;transform-origin:center;animation:pulse 2s ease-in-out infinite}
+</style>
+<title>ClickSolutions CRM</title>
+<defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#A78BFA"/><stop offset="100%" stop-color="#A78BFA"/></linearGradient></defs>
+<rect width="480" height="262" rx="16" fill="#0F1A2E"/>
+<rect x=".5" y=".5" width="479" height="261" rx="16" fill="none" stroke="#1E2B45"/>
+<rect x="0" y="0" width="480" height="4" rx="2" fill="url(#g)"/>
+<circle class="dot" cx="30" cy="38" r="4.5" fill="#A78BFA"/>
+<text class="mono" x="44" y="42" font-size="11.5" fill="#A78BFA" letter-spacing="1.2">AGENCY  ·  IN PROGRESS</text>
+<text x="28" y="78" font-size="22" font-weight="800" fill="#E6EDF7">ClickSolutions CRM</text>
+<text x="28" y="106" font-size="13.5" fill="#8FA3BF">Agency CRM covering lead management, sales pipeline,</text><text x="28" y="126" font-size="13.5" fill="#8FA3BF">project and task tracking, client onboarding workflows</text><text x="28" y="146" font-size="13.5" fill="#8FA3BF">and KPI dashboards.</text><rect x="28" y="196" width="70" height="24" rx="12" fill="#A78BFA" fill-opacity=".10" stroke="#A78BFA" stroke-opacity=".55"/><text x="63.0" y="212.025" text-anchor="middle" font-size="11.5" font-weight="600" fill="#A78BFA">Laravel</text><rect x="106" y="196" width="57" height="24" rx="12" fill="#A78BFA" fill-opacity=".10" stroke="#A78BFA" stroke-opacity=".55"/><text x="134.5" y="212.025" text-anchor="middle" font-size="11.5" font-weight="600" fill="#A78BFA">MySQL</text><rect x="171" y="196" width="57" height="24" rx="12" fill="#A78BFA" fill-opacity=".10" stroke="#A78BFA" stroke-opacity=".55"/><text x="199.5" y="212.025" text-anchor="middle" font-size="11.5" font-weight="600" fill="#A78BFA">React</text><line x1="28" y1="234" x2="452" y2="234" stroke="#1E2B45"/><text class="mono" x="28" y="253" font-size="12" fill="#8FA3BF">repository coming soon</text></svg>

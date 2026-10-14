@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140" role="img">
+<style>
+text{font-family:Inter,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace}
+@keyframes fadeUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes drift1{0%,100%{transform:translate(0,0)}50%{transform:translate(-50px,30px)}}
+@keyframes drift2{0%,100%{transform:translate(0,0)}50%{transform:translate(60px,-25px)}}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(1.8)}}
+@keyframes draw{from{stroke-dashoffset:900}to{stroke-dashoffset:0}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.up{animation:fadeUp .8s ease both}
+.fi{animation:fadeIn 1s ease both}
+.fl{animation:floaty 6s ease-in-out infinite}
+.dot{transform-box:fill-box;transform-origin:center;animation:pulse 2s ease-in-out infinite}
+</style>
+<title>Key numbers</title><defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#38BDF8"/><stop offset="100%" stop-color="#A78BFA"/></linearGradient></defs><g class="up" style="animation-delay:0.1s">
+<rect x="0" y="0" width="232" height="140" rx="14" fill="#0F1A2E" stroke="#1E2B45"/>
+<rect x="0" y="0" width="232" height="3" rx="1.5" fill="url(#g)"/>
+<text x="22" y="62" font-size="42" font-weight="800" fill="url(#g)">6,570+</text>
+<text x="22" y="92" font-size="15" font-weight="700" fill="#E6EDF7">Trainees managed</text>
+<text class="mono" x="22" y="114" font-size="11.5" fill="#8FA3BF">fee collection system, KSA</text></g><g class="up" style="animation-delay:0.25s">
+<rect x="256" y="0" width="232" height="140" rx="14" fill="#0F1A2E" stroke="#1E2B45"/>
+<rect x="256" y="0" width="232" height="3" rx="1.5" fill="url(#g)"/>
+<text x="278" y="62" font-size="42" font-weight="800" fill="url(#g)">1,200+</text>
+<text x="278" y="92" font-size="15" font-weight="700" fill="#E6EDF7">Live job listings</text>
+<text class="mono" x="278" y="114" font-size="11.5" fill="#8FA3BF">Wazaef Misr, Egypt</text></g><g class="up" style="animation-delay:0.4s">
+<rect x="512" y="0" width="232" height="140" rx="14" fill="#0F1A2E" stroke="#1E2B45"/>
+<rect x="512" y="0" width="232" height="3" rx="1.5" fill="url(#g)"/>
+<text x="534" y="62" font-size="42" font-weight="800" fill="url(#g)">600+</text>
+<text x="534" y="92" font-size="15" font-weight="700" fill="#E6EDF7">Concurrent staff users</text>
+<text class="mono" x="534" y="114" font-size="11.5" fill="#8FA3BF">load-tested</text></g><g class="up" style="animation-delay:0.5499999999999999s">
+<rect x="768" y="0" width="232" height="140" rx="14" fill="#0F1A2E" stroke="#1E2B45"/>
+<rect x="768" y="0" width="232" height="3" rx="1.5" fill="url(#g)"/>
+<text x="790" y="62" font-size="42" font-weight="800" fill="url(#g)">2</text>
+<text x="790" y="92" font-size="15" font-weight="700" fill="#E6EDF7">Markets served</text>
+<text class="mono" x="790" y="114" font-size="11.5" fill="#8FA3BF">Egypt and Saudi Arabia</text></g></svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="270" viewBox="0 0 480 270" role="img">
+<style>
+text{font-family:Inter,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace}
+@keyframes fadeUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes drift1{0%,100%{transform:translate(0,0)}50%{transform:translate(-50px,30px)}}
+@keyframes drift2{0%,100%{transform:translate(0,0)}50%{transform:translate(60px,-25px)}}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(1.8)}}
+@keyframes draw{from{stroke-dashoffset:900}to{stroke-dashoffset:0}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.up{animation:fadeUp .8s ease both}
+.fi{animation:fadeIn 1s ease both}
+.fl{animation:floaty 6s ease-in-out infinite}
+.dot{transform-box:fill-box;transform-origin:center;animation:pulse 2s ease-in-out infinite}
+</style>
+<title>Client feedback</title>
+<defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#34D399"/><stop offset="100%" stop-color="#A78BFA"/></linearGradient></defs>
+<rect width="480" height="270" rx="16" fill="#0F1A2E"/>
+<rect x=".5" y=".5" width="479" height="269" rx="16" fill="none" stroke="#1E2B45"/>
+<rect x="0" y="0" width="5" height="270" rx="2.5" fill="url(#g)"/>
+<text x="26" y="78" font-size="80" font-weight="800" fill="#34D399" fill-opacity=".35" font-family="Georgia,serif">&#8220;</text>
+<text x="30" y="88" font-size="14.5" font-style="italic" fill="#E6EDF7">The platform is wonderful and saved me a great deal</text><text x="30" y="110" font-size="14.5" font-style="italic" fill="#E6EDF7">of effort. The management and users praised it</text><text x="30" y="132" font-size="14.5" font-style="italic" fill="#E6EDF7">highly. Working together was beyond great: fast</text><text x="30" y="154" font-size="14.5" font-style="italic" fill="#E6EDF7">delivery, simple revisions and quick responses.</text><line x1="30" y1="206" x2="450" y2="206" stroke="#1E2B45"/><text x="30" y="230" font-size="15" font-weight="700" fill="#E6EDF7">Najla Al-Thumali</text><text class="mono" x="30" y="250" font-size="11.5" fill="#34D399">Client, hall booking platform  ·  translated from Arabic</text></svg>

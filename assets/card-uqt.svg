@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="262" viewBox="0 0 480 262" role="img">
+<style>
+text{font-family:Inter,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace}
+@keyframes fadeUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes drift1{0%,100%{transform:translate(0,0)}50%{transform:translate(-50px,30px)}}
+@keyframes drift2{0%,100%{transform:translate(0,0)}50%{transform:translate(60px,-25px)}}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(1.8)}}
+@keyframes draw{from{stroke-dashoffset:900}to{stroke-dashoffset:0}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.up{animation:fadeUp .8s ease both}
+.fi{animation:fadeIn 1s ease both}
+.fl{animation:floaty 6s ease-in-out infinite}
+.dot{transform-box:fill-box;transform-origin:center;animation:pulse 2s ease-in-out infinite}
+</style>
+<title>UQTCollect</title>
+<defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#FBBF24"/><stop offset="100%" stop-color="#A78BFA"/></linearGradient></defs>
+<rect width="480" height="262" rx="16" fill="#0F1A2E"/>
+<rect x=".5" y=".5" width="479" height="261" rx="16" fill="none" stroke="#1E2B45"/>
+<rect x="0" y="0" width="480" height="4" rx="2" fill="url(#g)"/>
+<circle class="dot" cx="30" cy="38" r="4.5" fill="#FBBF24"/>
+<text class="mono" x="44" y="42" font-size="11.5" fill="#FBBF24" letter-spacing="1.2">SAUDI ARABIA  ·  2025</text>
+<text x="28" y="78" font-size="22" font-weight="800" fill="#E6EDF7">UQTCollect</text>
+<text x="28" y="106" font-size="13.5" fill="#8FA3BF">Trainee management and fee collection for a training</text><text x="28" y="126" font-size="13.5" fill="#8FA3BF">institute: enrollment, invoicing, installments and</text><text x="28" y="146" font-size="13.5" fill="#8FA3BF">finance dashboards for 6,570+ trainees, load-tested for</text><text x="28" y="166" font-size="13.5" fill="#8FA3BF">600+ staff users.</text><rect x="28" y="196" width="70" height="24" rx="12" fill="#FBBF24" fill-opacity=".10" stroke="#FBBF24" stroke-opacity=".55"/><text x="63.0" y="212.025" text-anchor="middle" font-size="11.5" font-weight="600" fill="#FBBF24">Laravel</text><rect x="106" y="196" width="57" height="24" rx="12" fill="#FBBF24" fill-opacity=".10" stroke="#FBBF24" stroke-opacity=".55"/><text x="134.5" y="212.025" text-anchor="middle" font-size="11.5" font-weight="600" fill="#FBBF24">MySQL</text><rect x="171" y="196" width="90" height="24" rx="12" fill="#FBBF24" fill-opacity=".10" stroke="#FBBF24" stroke-opacity=".55"/><text x="216.0" y="212.025" text-anchor="middle" font-size="11.5" font-weight="600" fill="#FBBF24">JavaScript</text><line x1="28" y1="234" x2="452" y2="234" stroke="#1E2B45"/><text class="mono" x="28" y="253" font-size="12" fill="#38BDF8">github.com/abdullahreda56643-sudo/UQTCollect</text></svg>
