@@ -1,25 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="64" viewBox="0 0 300 64" role="img">
-<style>
-text{font-family:Inter,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
-.mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Courier New',monospace}
-@keyframes fadeUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
-@keyframes fadeIn{from{opacity:0}to{opacity:1}}
-@keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
-@keyframes drift1{0%,100%{transform:translate(0,0)}50%{transform:translate(-50px,30px)}}
-@keyframes drift2{0%,100%{transform:translate(0,0)}50%{transform:translate(60px,-25px)}}
-@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(1.8)}}
-@keyframes draw{from{stroke-dashoffset:900}to{stroke-dashoffset:0}}
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="68" viewBox="0 0 300 68" role="img"><title>Live project</title><style>@font-face{font-family:'RDDisplay';font-weight:800;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAAWYABAAAAAACpAAAAU7AAEAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGiIbhAoccgZgP1NUQVRWAHgRCAqHAIVlATYCJANACyIABCAFgiAHIAwHG7kIUVRxpqT44sCm0y+whpaSkmCp43CR/LBLsLZgZsEtjwjv4+H7/f517X3PIwjxCyHIjP/zdcKOUGeioSArO1U1qg5dp64s++///Z92p9CUUHSaKgX1aqYEl/7ff5qHXxu+/70iFuli6qLNqtVk82BxoY6VsRDTZdCDVP8DuMP++WOmi6QKzCQcDmw63Nv6LXH7IIumBhpYAUWDlG4XaclndDZAGbifuTWmkq/YKPQYaw0xHxF00wX6gFQJRWhqCR0DIdC1xi65kem+wF+jiHTgV6D+XyCeuOx04EIgFB1tlb65lgqJhULiiZBEBWShgpZNdjjmBn+RkiEtqWjp6OrpC4lKhRb6KJzoYIzWPFVSUSZ6lHhxm5E+KvjWD9o6oJm9of4Gu6+/I4mw/olXuNQ/eBxjjkz9jvB5xn/URxctryAEtQj6mhhNrUKuBmbS0LLgAEFFCopzrjS1pVVKNtiS6KwmUH+tzMWcmMmSwMB3cL0imC1JtaexBJMUrVr3PQt2wcKDL3e3lG/jXjNiUgM7tV1uSjGNItdUk175zUAAl+kmxgXGcZQcmo1SUhYEAJw86Aw4N/Gg+zzzN+UT7QjIMd9jYiCEtgpzVdgiX5k5RQgPbyIRpXgnJBIopKbZlguIwRAhZMwxBYQk+moCkmgMEhVTHxmrFBNXxIiTLFM2Ql4TTZok43Vux5jR1IMG9OsrCK/vVxQtIVrdCIzBBEPMECeANVgKSJePoRIJv1cgStlBXYtNQFBAVlRchosXs2M2HsQHUU2vhI8qX18FZr58qeQ7unrI07S/PA4VLx9i5tGajN/wiycvrK0vfSNRDH1q85498+BFMcDMvaUhicg5gtvzfk1NPP44ijqk4sWDAChQItDvf+HPPHuNKl894lV+rKzYT23KFOVx9SnzDExMAIRcgLn2DANUjKws7GCUEM+TnxHz7d015O6cyz6mBSGeADx3JHP8DwowHhUHmLknAdPXOBwH4RAcGtH0CFU+xsyHUPGA1D3RXVPfUQ/mfK4JaiSyaoy9o2oCyS1O09k5QsvWbaLbSHGgSlLKp++Nmpk02UVd48xenClvKu+6HSgHlnzOCcpUF7UYJwfVJFd6rJaDY6SmvadcNhttmMXXkaUualRWToUkRzFlkGkWMvbx922ZcoTOEkMc7AUnBEH0MTsHG29D7F8Nvklxc2m6A10cDPm8iuxIxWFhpKJiWy+vYjtSUVgEpbjEmkqofpBwMTaToqprKoOEiwnD1hvs5pf4a1CPUL0ejapiQI51MSsN9NAvDqfQjFyU9V0+iQT3xUj2ElJKb6WcdA2knUWVFBYXz8TERXqMjzzB/qtMDcumKAdJnUFVM+cyvGBf+u461Gjh83gPuB8WEJ322I2lxPwDsuSlheSWV5dfKQsoi0jM9vx0tbPMvxXTLhTXvrTCD9mB+hyq6hz6BhxqahzAsg5BA02jKQCjfWGOHuzAH/k3G/jZDP31LQXCqR+jyi6iI/+1q+p3+HFweQrw23/tc3Bz+jRNCYJ/IZN/C0VvCCASGesPcDb+72weNsnLoBjL7WA81kQmXkiZnDJE3yjR79N1fdDPi8DlVzBXYGyHtEQOCcBzbdNYRekINwHQpKGbVsFC09rQ90ibut5pO2Z7r+1p+/rn5uj7xinZksTIkCpKgjiKzsuWgRAnR5ZcRXnQPreOKzqrACFbFGfv4FiKMogkyI0m2TwDYBg1KqvoLmgsEidA3GacIBEhYFosQmIkMbJnBvT4+f5QmiipWIF6uF2k+bv4/3KlBQAAAA==) format('woff2')}
+@font-face{font-family:'RDMono';font-weight:400;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAATkABAAAAAACHgAAASHAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIByCagZgP1NUQVReAFwRCAqGIIUdATYCJAMgCyAABCAFgRoHIAwHG78GKL4E8GSYv8oTUVRFWLCx4rFRO3SXQehAdEPq7+sGz9ea9f7vTieZyRKBPCTHrIhnjlgCWyBH4K7OnSIJrEglu/uT3O9d0DcjcUHcmwSMf8ucOOY5eOBv9n7R9sjDEEOek26A1ha/NXkg7t37s7HOi6NpfY4CmuBZl0AbOV2LLG69vShvMpVvGutU0Z6FJCYjKEKWijfAfzvs/C8sy8rH6WZqnLSUoNr2///91H+3Fo8Wn+EwqmnYQQ34EJZBUWDRwBOc0M7MrbnDhF5JOY61lolf6WYQIAEAKIqgCI4oggAepcrJOJ+gKFDBAowAAAE8avVTVzZ5A64sBrIXgtPJclxYCSqAAQxR4uRa5Y/r3R+ngFTiAEs65dqNIo9IAtL4jggpEikfYBDeEX4DAcSn/wA/qLlsDOEFxQERMlXrNUlSH+0NgPpvgLjOYURa2MGgbPQjDg8Dmy4sgtgIP0TiwUXkWORAwc2AjiHPaL0cTmpCtraeanGhQnok6LBIGW11DmojAnpcmgPAVNVZFoFF4AagEKcKCj9iygCAFyrtjP5/M5iUaAECoPX6BFSKIAgxFMhlgFq6LSe3EgGsXeBCREFwFGumgIqVsyCLAOQVYAyrPqEgzZkzgerNCK2o3SyTAOnEUByV2i1VpEz9HxQKsdpPdNGVhNpOkBFqAFco3y0BfIKUA92gFAAogiSp1o4AXFNZidJYQOamqyXy0qNb74JwK/kSjsXjcwPvN+3EQj3xCgIZre8D8Y73gqFyfP0K40maDfa+jx/x8QvD/8TXXdJrhapnwsw7nsQuRbFqhoHsgTWQ8INgcwn5tpjCVY4yI1hK8xMI0d39eb27IJYQF68W0zOQ3zVzo6JjUwjx/cPm2qckkZBLQKuJKI0VFVi6kkl49E/sCXazEeHE9qLaa0uXD8H8dkTdE22QvpmXVMYZcUHBGbHRC7aWe4PRXc8jQcWnIjI2tQhH1cflUb7s7m3j4xbuahEyZ2xuaPLOtp6vtq636edDZrhqxEhXGTyaoR70+3Zl0G7u6TIddE20Dazsgt0mIic1dkvNe/Wtk5rvpXYLR4Lr9TXZzWS6hPt7RaYVpY6n4sIIr3A/VyY9L+Hpcc+Kt0tPPrPa2bt4uvW4nTNYHIsfriuczz/s0+G6+XzeDuGlNao280+G2cfO5Sbcr2fdnuQVLZFpMldXWauJxORH5s0s64wi2hPs67wjwLCg86aOTuv9aYM75u25SW4BPo6OeU73pugmn2wru1QPe9OEKOvyPKfLYs3PLrHo+RhK5wMNYkMvwBG7x3zJDosQ4i754sOm9L0Lgxh+/Q+6XPqksDr1x97Rn2nFfsuM8l4vrjn9z0fmO8DHp7cAvv4ORVDPWrZyKAACq2vSOR4K3RVWQGR/NUjgTmyMOBYGzPPoyO/P/gcAATJopHQwXWTU45iBMhtHKAWhKemU8gkkaG62JmQQ+/+gTDzGCJClkodyWJ5iFaSmK1GsRIQsOaoUwsrFypInR65K/iphhfJkiFCiCFZMHgBGYgGEmvhAjDx7CgAAAA==) format('woff2')}
+
+text{font-family:'RDDisplay',Arial,sans-serif}
+@keyframes up{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes spinr{to{transform:rotate(-360deg)}}
+@keyframes drift1{0%,100%{transform:translate(0,0)}50%{transform:translate(-60px,34px)}}
+@keyframes drift2{0%,100%{transform:translate(0,0)}50%{transform:translate(70px,-30px)}}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.3;transform:scale(2)}}
+@keyframes sweep{0%{transform:translateX(-300px)}100%{transform:translateX(1300px)}}
 @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
-.up{animation:fadeUp .8s ease both}
-.fi{animation:fadeIn 1s ease both}
-.fl{animation:floaty 6s ease-in-out infinite}
-.dot{transform-box:fill-box;transform-origin:center;animation:pulse 2s ease-in-out infinite}
-</style>
-<title>Live project</title>
-<defs><linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#38BDF8"/><stop offset="100%" stop-color="#A78BFA"/></linearGradient></defs>
-<rect width="300" height="64" rx="14" fill="#0B1220"/>
-<rect x="1" y="1" width="298" height="62" rx="13" fill="none" stroke="url(#g)" stroke-width="2"/>
-<text x="26" y="29" font-size="17" font-weight="800" fill="#E6EDF7">Live project</text>
-<text class="mono" x="26" y="48" font-size="11.5" fill="#8FA3BF">mqala.xyz</text>
-<text x="272" y="40" font-size="22" font-weight="700" fill="#38BDF8" text-anchor="end">&#8599;</text>
-</svg>
+.up{animation:up .9s cubic-bezier(.2,.7,.2,1) both}
+.fd{animation:fade 1.2s ease both}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 90s linear infinite}
+.spinr{transform-box:fill-box;transform-origin:center;animation:spinr 120s linear infinite}
+.dot{transform-box:fill-box;transform-origin:center;animation:pulse 2.2s ease-in-out infinite}
+</style><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4FD1B5"/><stop offset="1" stop-color="#F4845F"/></linearGradient></defs><rect width="300" height="68" rx="16" fill="#0A0E14"/><rect x="1" y="1" width="298" height="66" rx="15" fill="none" stroke="url(#bg)" stroke-width="2"/><text x="26" y="31" font-size="19" fill="#F1E8D4" style="font-family:'RDDisplay',Arial,sans-serif;font-weight:800;">Live project</text><text x="26" y="51" font-size="11.5" fill="#9AA7B8" style="font-family:'RDMono',Arial,sans-serif;font-weight:400;">mqala.xyz</text><g stroke="#4FD1B5" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M257 45 L271 31"/><path d="M259 31 H271 V43"/></g></svg>
