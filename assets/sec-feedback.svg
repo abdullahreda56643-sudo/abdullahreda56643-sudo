@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#818CF8"/></linearGradient>
+<linearGradient id="gs" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#818CF8"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#101B33"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter><clipPath id="c"><rect width="1200" height="72" rx="24"/></clipPath></defs><g clip-path="url(#c)"><rect width="1200" height="72" fill="#0B1220"/><rect width="1200" height="72" rx="24" fill="none" stroke="#1E2D47"/>
+<text x="32" y="44" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="15" fill="#38BDF8">04</text>
+<text x="76" y="48" font-size="28" font-weight="800" letter-spacing="-.5" fill="#F4F8FE">Client Feedback</text>
+<rect x="355" y="35" width="813" height="2" fill="url(#gs)" opacity=".8"/>
+<circle cx="1168" cy="36" r="4" fill="#38BDF8"><animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/></circle></g></svg>

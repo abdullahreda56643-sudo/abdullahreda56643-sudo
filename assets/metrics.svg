@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#818CF8"/></linearGradient>
+<linearGradient id="gs" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#818CF8"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#101B33"/></linearGradient>
+<filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter><clipPath id="c"><rect width="1200" height="150" rx="24"/></clipPath></defs><g><rect x="0" y="0" width="285" height="150" rx="20" fill="#0F1A2E" stroke="#1E2D47"/>
+<rect x="24" y="0" width="64" height="3" fill="url(#gs)"/>
+<circle cx="256" cy="30" r="4" fill="#34D399"><animate attributeName="opacity" values="1;.25;1" dur="2s" begin="0.0s" repeatCount="indefinite"/></circle>
+<text x="26" y="86" font-size="46" font-weight="800" letter-spacing="-1.5" fill="#F4F8FE">6,570+</text>
+<text x="26" y="120" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12" letter-spacing="1.5" fill="#7F90A8">TRAINEES MANAGED</text><rect x="305" y="0" width="285" height="150" rx="20" fill="#0F1A2E" stroke="#1E2D47"/>
+<rect x="329" y="0" width="64" height="3" fill="url(#gs)"/>
+<circle cx="561" cy="30" r="4" fill="#34D399"><animate attributeName="opacity" values="1;.25;1" dur="2s" begin="0.4s" repeatCount="indefinite"/></circle>
+<text x="331" y="86" font-size="46" font-weight="800" letter-spacing="-1.5" fill="#F4F8FE">SAR 8.7M</text>
+<text x="331" y="120" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12" letter-spacing="1.5" fill="#7F90A8">FEES COLLECTED</text><rect x="610" y="0" width="285" height="150" rx="20" fill="#0F1A2E" stroke="#1E2D47"/>
+<rect x="634" y="0" width="64" height="3" fill="url(#gs)"/>
+<circle cx="866" cy="30" r="4" fill="#34D399"><animate attributeName="opacity" values="1;.25;1" dur="2s" begin="0.8s" repeatCount="indefinite"/></circle>
+<text x="636" y="86" font-size="46" font-weight="800" letter-spacing="-1.5" fill="#F4F8FE">600+</text>
+<text x="636" y="120" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12" letter-spacing="1.5" fill="#7F90A8">CONCURRENT USERS TESTED</text><rect x="915" y="0" width="285" height="150" rx="20" fill="#0F1A2E" stroke="#1E2D47"/>
+<rect x="939" y="0" width="64" height="3" fill="url(#gs)"/>
+<circle cx="1171" cy="30" r="4" fill="#34D399"><animate attributeName="opacity" values="1;.25;1" dur="2s" begin="1.2000000000000002s" repeatCount="indefinite"/></circle>
+<text x="941" y="86" font-size="46" font-weight="800" letter-spacing="-1.5" fill="#F4F8FE">1,200+</text>
+<text x="941" y="120" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12" letter-spacing="1.5" fill="#7F90A8">JOB LISTINGS LIVE</text></g></svg>
