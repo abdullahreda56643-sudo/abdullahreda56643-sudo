@@ -30,7 +30,7 @@
 
 Full-stack developer working mainly with **React** and **Laravel**. I have been building production web systems as a freelancer since 2021 for clients in **Egypt and Saudi Arabia**, covering requirements, architecture, development, testing and deployment.
 
-Currently a freelance partner at **ClickSolutions** and a Computer Science student at Taibah Academy (expected graduation 2027).
+Currently a freelance partner at **ClickSolutions** and a Computer Science student at Thebes Academy (expected graduation 2028).
 
 ---
 
@@ -40,6 +40,7 @@ Currently a freelance partner at **ClickSolutions** and a Computer Science stude
 | :-- | :-- | :-- | :-- |
 | **Wazaef Misr** | Job marketplace for the Egyptian market with 1,200+ listings, separate dashboards for job seekers, employers and admins, resume parsing, recommendations and a built-in fraud reporting system. | Laravel, MySQL | [mqala.xyz](https://mqala.xyz) |
 | **Spark Platform** | Educational platform for a client in Saudi Arabia, built from the client's initial idea: interface design and most of the internal functionality. | React, Laravel, MySQL | [spark-platform.free.je](https://spark-platform.free.je/) |
+| **Hall Booking Platform** | Digital hall booking platform built for a client to replace manual booking management, delivered quickly and refined through short feedback cycles. | React, Laravel, MySQL | [hall-platform.site.je](https://hall-platform.site.je/) |
 | **UQTCollect** | Trainee management and fee collection system for a training institute in Saudi Arabia: enrollment, invoicing, installments and real-time finance dashboards. Serves 6,570+ trainees and about SAR 8.7M in collected fees, and was load-tested for 600+ concurrent staff users. | Laravel, MySQL, JavaScript | [Repository](https://github.com/abdullahreda56643-sudo/UQTCollect) |
 | **ShiftCF** | Workforce platform for shift registration and leave requests with conflict detection, approval workflows and a real-time color-coded shift calendar. | PHP, Laravel, MySQL | [Repository](https://github.com/abdullahreda56643-sudo/shift-management-system) |
 | **ClickSolutions CRM** | Agency CRM covering lead management, sales pipeline, project and task tracking, client onboarding workflows and KPI dashboards. | Laravel, MySQL, React | <!-- add repository link here when uploaded --> In progress |
@@ -82,7 +83,11 @@ I also use AI tools (Claude, ChatGPT, Gemini, Cursor) to speed up development, a
 
 > "The website design is wonderful and better than I expected, and it is smooth, easy and fast to use. I gave him my idea and he designed it in a way that amazed me."
 >
-> Client of the Spark educational platform, Saudi Arabia (translated from Arabic)
+> Khadija Al-Shehri, client of the Spark educational platform, Saudi Arabia (translated from Arabic)
+
+> "The platform is wonderful and saved me a great deal of effort. The management and users praised it highly. Working together was beyond great: fast delivery, simple revisions and quick responses."
+>
+> Najla Al-Thumali, client of the hall booking platform (translated from Arabic)
 
 ---
 
@@ -90,7 +95,7 @@ I also use AI tools (Claude, ChatGPT, Gemini, Cursor) to speed up development, a
 
 | | |
 | :-- | :-- |
-| **B.Sc. Computer Science** | Taibah Academy for Computer Science, Egypt (third year, expected 2027) |
+| **B.Sc. Computer Science** | Thebes Academy, Egypt (expected 2028) |
 | **Front-End Development Diploma** | Courses Zone, 2020 |
 | **Back-End Development Diploma** | Courses Zone, 2023 |
 
