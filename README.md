@@ -1,6 +1,7 @@
 <!--
   Profile README for github.com/abdullahreda56643-sudo
-  Upload this file AND the assets folder (banner.svg) to the repository named exactly like your username.
+  Upload this file AND the whole assets folder to the repository named exactly like your username.
+  The images in assets/ are animated SVGs, GitHub plays the animations automatically.
 -->
 
 <div align="center">
@@ -17,61 +18,69 @@ I build web platforms that replace spreadsheets and manual work. I'm a full-stac
 
 <br/>
 
-## Impact
-
-| 1,200+ | 600+ | 2,500 | 2 |
-|:---:|:---:|:---:|:---:|
-| job listings on Wazaef Misr | registered users on Wazaef Misr | trainee records managed for a Saudi training institute | markets served: Egypt and Saudi Arabia |
+<img src="assets/h-impact.svg" alt="Impact" width="100%" />
+<br/><br/>
+<img src="assets/stats.svg" alt="1,200+ job listings and 600+ registered users on Wazaef Misr, 2,500 trainee records managed for a Saudi institute, 2 markets served: Egypt and Saudi Arabia" width="100%" />
 
 <br/>
 
-## Featured Projects
+<img src="assets/h-featured.svg" alt="Featured Projects" width="100%" />
+<br/><br/>
 
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **Wazaef Misr** | Live job marketplace for Egypt with separate experiences for job seekers, employers and admins, advanced search by governorate and field, AI-assisted resume parsing, job alerts, and a reporting system for fraudulent listings. | React · Laravel · MySQL | [mqala.xyz](https://mqala.xyz) |
-| **ShiftCF** | Shift registration and leave management with conflict detection, approval workflows and a live shift calendar. | React · Laravel · MySQL | [shiftcf.com](https://shiftcf.com) · [Source](https://github.com/abdullahreda56643-sudo/shift-management-system) |
-| **Trainee & Fee Management System** | Replaced a spreadsheet-based collection process for a Saudi training institute: enrollment, course management, automated invoicing, installments and payments, with role-based dashboards. Manages records for 2,500 trainees. | Laravel · PHP · MySQL · JavaScript | Client system (private) |
-| **Spark Educational Platform** | Educational platform for a Saudi client, taken from the client's initial idea to delivery: requirements, interface design, core functionality and admin side. | React · Laravel · MySQL | [Live](https://spark-platform.free.je/) (client-chosen starter domain) |
-| **Hall Booking Platform** | Hall booking platform for a Saudi client, replacing manual booking management. Delivered through short feedback cycles. | React · Laravel · MySQL | [Live](https://hall-platform.site.je/) (client-chosen starter domain) |
-| **ClickSolutions CRM** | Agency management platform built as a product: leads, sales pipeline, projects and tasks, client onboarding and performance dashboards. | React · Laravel · MySQL | Private |
+<table>
+  <tr>
+    <td width="50%"><a href="https://mqala.xyz"><img src="assets/card-wazaef.svg" alt="Wazaef Misr: live job marketplace for Egypt, mqala.xyz" width="100%" /></a></td>
+    <td width="50%"><a href="https://shiftcf.com"><img src="assets/card-shift.svg" alt="ShiftCF: shift and leave management platform, shiftcf.com" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/card-uqt.svg" alt="Trainee and Fee Management System for a Saudi training institute, 2,500 trainee records" width="100%" /></td>
+    <td width="50%"><a href="https://spark-platform.free.je/"><img src="assets/card-spark.svg" alt="Spark Educational Platform for a Saudi client" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://hall-platform.site.je/"><img src="assets/card-hall.svg" alt="Hall Booking Platform for a Saudi client" width="100%" /></a></td>
+    <td width="50%"><img src="assets/card-crm.svg" alt="ClickSolutions CRM: agency management platform built as a product" width="100%" /></td>
+  </tr>
+</table>
 
-<br/>
-
-## Tech Stack
-
-- **Core:** React, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Laravel, PHP, REST APIs, MySQL
-- **Tools:** Git, GitHub, Linux, Nginx
-- **Also working with:** Next.js, Docker, AWS
-- **AI-assisted development:** Claude, Cursor
-
-<br/>
-
-## Journey
-
-| When | What |
-|---|---|
-| Feb 2022 – Apr 2023 | Front-End Development Instructor at Courses Zone Academy, Kafr el-Sheikh |
-| Jan 2024 | Started B.Sc. in Computer Science (online), expected May 2028 |
-| Feb 2024 – now | Freelance Full-Stack Developer under Click Solutions |
-| Mar 2024 | Frontend Essentials certificate, Courses Zone |
-| Mar – Apr 2025 | Trainee & Fee Management System for a Saudi training institute |
-| Apr – Jun 2025 | ClickSolutions CRM and ShiftCF |
-| Jul 2025 | Backend Essentials certificate, Courses Zone |
-| 2026 | Wazaef Misr, Hall Booking Platform and Spark Educational Platform |
+<p align="center"><sub>Spark and Hall are launched on starter domains chosen by the clients. Source for ShiftCF: <a href="https://github.com/abdullahreda56643-sudo/shift-management-system">shift-management-system</a></sub></p>
 
 <br/>
 
-## Client Feedback
-
-> "Better than I expected: smooth, easy and fast. I gave him my idea and he designed it in a way that amazed me."
-> — Saudi client, Spark Educational Platform *(translated from Arabic)*
-
-> "It saved me a lot of effort and time. I received great praise from management and users. Fast delivery, and modifications were simple and quickly handled."
-> — Saudi client, Hall Booking Platform *(translated from Arabic)*
+<img src="assets/h-tech.svg" alt="Tech Stack" width="100%" />
+<br/><br/>
+<img src="assets/stack.svg" alt="Frontend: React, Redux, JavaScript, HTML5, CSS3, Tailwind CSS. Backend: Laravel, PHP, REST APIs, MySQL. Tools: Git, GitHub, Linux, Nginx. Also working with: Next.js, Docker, AWS. AI-assisted development: Claude, Cursor." width="100%" />
 
 <br/>
 
-## Contact
+<img src="assets/h-journey.svg" alt="Journey" width="100%" />
+<br/><br/>
+<img src="assets/journey.svg" alt="Timeline: Feb 2022 to Apr 2023 front-end instructor at Courses Zone, Jan 2024 started B.Sc. in Computer Science, Feb 2024 freelance full-stack developer under Click Solutions, Mar 2024 Frontend Essentials certificate, Mar to Apr 2025 Trainee and Fee Management System, Apr to Jun 2025 ClickSolutions CRM and ShiftCF, Jul 2025 Backend Essentials certificate, 2026 Wazaef Misr, Hall Booking Platform and Spark Educational Platform." width="100%" />
 
-[LinkedIn](https://www.linkedin.com/in/abdullah-reda-8b00973b1/) · [Email](mailto:abdullahreda56643@gmail.com) · [Wazaef Misr](https://mqala.xyz)
+<br/>
+
+<img src="assets/h-client.svg" alt="Client Feedback" width="100%" />
+<br/><br/>
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/quote-spark.svg" alt="Saudi client, Spark Educational Platform: better than I expected, smooth, easy and fast." width="100%" /></td>
+    <td width="50%"><img src="assets/quote-hall.svg" alt="Saudi client, Hall Booking Platform: it saved me a lot of effort and time, with fast delivery." width="100%" /></td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="assets/h-contact.svg" alt="Contact" width="100%" />
+<br/><br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullah-reda-8b00973b1/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="56" /></a>
+  &nbsp;
+  <a href="mailto:abdullahreda56643@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="56" /></a>
+  &nbsp;
+  <a href="https://mqala.xyz"><img src="assets/btn-live.svg" alt="Wazaef Misr live project" height="56" /></a>
+</p>
+
+<br/>
+
+<img src="assets/footer.svg" alt="Open to full-time, on-site roles in Saudi Arabia. Employer-sponsored visa. Riyadh, Jeddah, Dammam, Khobar." width="100%" />
